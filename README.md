@@ -1,2 +1,2 @@
 # nodejs-notes-app
-Primero proyecto del curso de NodeJS
+Primer proyecto del curso de NodeJS
